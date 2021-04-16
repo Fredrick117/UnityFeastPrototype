@@ -12,6 +12,6 @@ There's a few things I want to add to this prototype to make it more interesting
 - More satisfying feast ("reel in" victims with tongues, have cooldown so this can't be spammed)
 
 ## Media
-![Starting state, where the player is normal sized.](https://github.com/Fredrick117/UnityFeastPrototype.git/Screenshot1.png?raw=true)
-![Once the player starts consuming more innocent blocks, they will get much bigger.](https://github.com/Fredrick117/UnityFeastPrototype.git/Screenshot2.png?raw=true)
-![The blocks will flee as far from the player as possible, sometimes even falling off the map!](https://github.com/Fredrick117/UnityFeastPrototype.git/Screenshot3.png?raw=true)
+![Starting state, where the player is normal sized.](Screenshot1.png?raw=true)
+![Once the player starts consuming more innocent blocks, they will get much bigger.](Screenshot2.png)
+![The blocks will flee as far from the player as possible, sometimes even falling off the map!](Screenshot3.png)
